@@ -9,6 +9,7 @@ class Artist
   end
 
   def add_song(song)
+    binding.pry
     self.artist = song
   end
 
