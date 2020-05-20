@@ -1,3 +1,4 @@
 class Post
 
+  @@all = []
 end
