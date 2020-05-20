@@ -20,4 +20,8 @@ class Post
     end
   end
 
+  def add_post(post)
+    self.author = post
+  end
+
 end
